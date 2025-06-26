@@ -1,0 +1,53 @@
+{
+  "English": {
+    "During Treatment": {
+      "1": "Take all medications exactly as prescribed by your doctor. Don't skip doses or stop early, even if you feel better. This is crucial to fully clear the parasite and prevent resistance.",
+      "2": "Stay hydrated. Drink plenty of fluids like water, clear broths, or oral rehydration solutions. Malaria can cause fever and dehydration.",
+      "3": "Rest is important. Allow your body to recover. Avoid strenuous activities.",
+      "4": "Monitor your symptoms. If your fever doesn't improve after the expected timeframe, or if you develop new or worsening symptoms (like difficulty breathing, confusion, or decreased urine output), seek immediate medical attention.",
+      "5": "Manage fever. If you have a fever, you can use paracetamol (acetaminophen) as directed by your doctor to help lower it. Avoid ibuprofen unless specifically advised by your doctor.",
+      "6": "Eat light, easily digestible meals. Nausea and loss of appetite can occur with malaria."
+    },
+    "After Completing Treatment": {
+      "1": "Complete the full course of medication. As mentioned before, this is vital.",
+      "2": "Follow up with your doctor as advised. They may want to check if the infection has cleared.",
+      "3": "Be aware of potential relapse. While P. falciparum doesn't typically have dormant liver stages, other types of malaria can. If you experience malaria-like symptoms again in the future, seek medical attention immediately and inform them of your previous malaria infection.",
+      "4": "Prevent future infections. Take precautions against mosquito bites, such as using mosquito repellent (especially those containing DEET, Picaridin, or IR3535), sleeping under insecticide-treated bed nets, and wearing long sleeves and pants, especially during dawn and dusk when mosquitoes are most active.",
+      "5": "Inform your doctor about any other medications you are taking. This is important to avoid potential drug interactions."
+    }
+  },
+  "Sinhala": {
+    "During Treatment": {
+      "1": "ඔබේ වෛද්‍යවරයා විසින් නියම කරන ලද සියලුම ඖෂධ හරියටම ගන්න. ඔබට සුදුසුය හැරියත්, මාත්‍රා මඟහරින්න එපා, හෝ කාලයේදී නතර කරන්න එපා. පරබෝෂිතයා සම්පූර්ණයෙන් මැකීමට සහ ප්‍රතිරෝධකයේ ප්‍රතිචාරවලින් තොරව වාර්ථාවක් පාවිච්චි කරන්න.",
+      "2": "සජලනය කරන්න. ජලය, පැහැදිලි සුප් හෝ පෝෂක ද්‍රව්‍යයක් ආදී පානයන් ගැන අවශ්‍ය පමණින් පාන කරන්න. මාලේරියාව උණ සහ ජලගැඹුරු කිරීමෙන් පෙළෙනවා.",
+      "3": "විවේකය මත් භාවිත කරන්න. ඔබේ ශරීරයට සුවපහසුකම ලබා දෙන්න. බරපතල ක්‍රියාකාරකම් වලට සහය නොදෙන්න.",
+      "4": "ඔබේ රෝග ලක්ෂණ මූලිකව නිරීක්ෂණය කරන්න. කාලවලට නොහැකිව උණ පහළ නොවන්නේ නම් හෝ අලුත් හෝ අඳුරු පෝෂක ප්‍රතිචාරයක් (නිවසට හුස්ම ගැනීම, මනෝභාවය අඩු වීම හෝ ඉදිරියට පිටවීම් අඩු වීම) තියෙනවා නම්, වෛද්‍ය ප්‍රතිකාර ලබා ගන්න.",
+      "5": "උණ කළමනාකරණය කරන්න. උණ තිබේ නම්, පේරැසිටමොල් (ඇසිටමිනොෆෙන්) පරිදි ඔබේ වෛද්‍යවරයාගේ උපදෙස් පරිදි භාවිතා කරන්න. ඕනෑම විබුප්‍රොෆෙන් පරිචාරණය කිරීමෙන් වළක්වන්න.",
+      "6": "පහසු සහ පහසු ජීර්ණය කරන ආහාර අනුභව කරන්න. මාලේරියාව සමඟ කැමති හා ආහාර රුචිය නැති වීම හැකිවී ඇත."
+    },
+    "After Completing Treatment": {
+      "1": "සම්පූර්ණ ඖෂධ පාඨමාලාව අගටම අවසන් කරන්න. පසුව සඳහන් කළ පරිදි, මේක ඉතාම වැදගත්යි.",
+      "2": "ඔබේ වෛද්‍යවරයාට පරිදි හමුවන්න. ඔවුන්ට වෛරසය සාර්ථකව සම්පූර්ණ කළ බව පරීක්ෂා කිරීමේ අවශ්‍යතාවය තිබෙනවා.",
+      "3": "පලමුවෙන් ව්‍යාප්තව පවා ඇති වීමේ අවදානම ගැන මනසක් තබා ගන්න. *P. falciparum* සාමාන්‍යයෙන් අවකාශ තත්ත්වයන් නොලැබේ, එහෙත් අනෙකුත් මාලේරියා වර්ග වලට එවක් මෘදු හෝ පෝෂක දියත් කර තිබේ. අනාගතයේ මාලේරියා වැනි ලක්ෂණ ඇති නම්, වෛද්‍ය ප්‍රතිකාර ලබා ගන්න සහ ඔවුන්ට මාලේරියා ආසාදනය වූ බව කියන්න.",
+      "4": "අනාගත ආසාදන වළක්වා ගැනීමට. මදුරු මල ආසාදන වලින් වළක්වා ගැනීමට මදුරු විකර්ෂක භාවිතා කිරීම (DEET, Picaridin හෝ IR3535 එකක් අඩංගු කරනවා), කෘමිනාශක ඇඳුම් යට නිදි ගැනීම සහ දිගු අත් සහ කලිසම් පලඳින ලෙස, විශේෂයෙන් උදෑසන සහ සන්ධ්‍යා කාලයේ මදුරු සක්‍රීය වන කාලයේදී.",
+      "5": "ඔබ ගන්නා ඖෂධ ගැන වෛද්‍යවරයාට දැනුම් දෙන්න. මෙය ඖෂධ අන්තර්ක්‍රියා වලින් වළක්වා ගැනීම සඳහා වැදගත් වේ."
+    }
+  },
+  "Tamil": {
+    "During Treatment": {
+      "1": "உங்கள் மருத்துவரின் பரிந்துரைக்கப்பட்ட அனைத்து மருந்துகளையும் சரியாக எடுத்துக்கொள்ளுங்கள். நீங்கள் நல்ல நிலையில் இருப்பினும், மருந்துகளை தவிர்க்கவும் அல்லது சீக்கிரம் நிறுத்தவும் கூடாது. இது பராசிட்டை முற்றிலும் நீக்க மற்றும் எதிர்ப்பு சக்தியைத் தடுப்பதற்கான மிகவும் முக்கியமானது.",
+      "2": "நீர் பரிசோதனை செய்யவும். நீர், தெளிவான சூப் அல்லது வாயு புளிப்பு தீர்வு போன்ற பலபாலான திரவங்களையும் பருகுங்கள். மாலைரியா உண்டாகிய சிறுநீர் மற்றும் உடல் வெப்பத்தை ஏற்படுத்தக்கூடும்.",
+      "3": "ஓய்வு மிகவும் முக்கியம். உங்கள் உடலை குணப்படுத்துவதற்கு விடுக்கவும். கடினமான செயல்களை தவிர்க்கவும்.",
+      "4": "உங்கள் அறிகுறிகளை கண்காணிக்கவும். உங்கள் காய்ச்சல் எதிர்பார்க்கப்பட்ட காலத்தில் குணமாகாவிட்டால் அல்லது புதிய அல்லது மோசமான அறிகுறிகள் (உணர்வு பிரச்சினைகள், சிரமமான மூச்சுக் கொள்ளுதல் அல்லது சிறுநீர் வெளியேற்றம் குறைவாக இருக்குதல்) தோன்றினால், உடனடி மருத்துவ உதவிக்கு செல்லுங்கள்.",
+      "5": "காய்ச்சலை நிர்வகிக்கவும். காய்ச்சல் இருந்தால், உங்கள் மருத்துவர் பரிந்துரைக்கும்படி பாராசிடமொல் (அசிடமினொபைன்) பயன்படுத்தலாம். அவசியமாக இருந்தால், ஐபுஃபிரோஃன் தவிர்க்கவும்.",
+      "6": "எளிதில் செரிக்கும் உணவுகளை உண்க. மாலைரியாவால் குழப்பம் மற்றும் உணவுக்கு ஈர்ப்பு குறைவாக இருக்கலாம்."
+    },
+    "After Completing Treatment": {
+      "1": "முழு மருந்து டூசை முடிக்கவும். முன்பே கூறியபடி, இது மிகவும் முக்கியம்.",
+      "2": "உங்கள் மருத்துவரின் பரிந்துரைக்கு ஏற்ப பின்வட்டாரமாக செல்லுங்கள். அவர்களுக்கு தொற்று தீர்ந்துள்ளதாக சரிபார்க்க வேண்டும்.",
+      "3": "எதிர்கால பரிசோதனை குறித்த கவலை வைக்கவும். *P. falciparum* பொதுவாக மடக்கம் ஆக்க முடியாது, ஆனால் மற்ற வகையான மாலைரியா மருந்துகளுக்கு இருக்கும். எதிர்காலத்தில் மாலைரியாவுடன் சிகிச்சைபற்றிய அறிகுறிகள் மீண்டும் தோன்றினால், உடனடி மருத்துவ உதவிக்கு செல்லவும் மற்றும் முன் தொற்று பற்றி அவர்களுக்கு தெரிவிக்கவும்.",
+      "4": "எதிர்கால தொற்றுகள் தடுக்கும். மழுகு மாறான பாதிப்புகள் காத்திருக்கும், DEET, Picaridin அல்லது IR3535 உள்ள பொருட்களை கொண்ட தீவிர பராமரிப்புகளை பயன்படுத்துங்கள், பூச்சி நெருங்கிய குறும்படங்களை தடுக்கும்.",
+      "5": "நீங்கள் எடுத்துக் க்கொள்ளும் எந்த மருந்துகளையும் உங்கள் மருத்துவரிடம் தெரிவிக்கவும். இது மருந்து பரிசோதனை குறித்த எந்தவொரு பிரச்சினைகளையும் தவிர"
+        }
+    }
+}

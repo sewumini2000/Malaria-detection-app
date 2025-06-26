@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parasite Detector</title>
+</head>
+<body>
+    <h1>Parasite Detection</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" required>
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction %}
+        <h2>Prediction: {{ prediction }}</h2>
+        <img src="{{ url_for('static', filename='uploads/' + image) }}" width="200">
+    {% endif %}
+</body>
+</html>
